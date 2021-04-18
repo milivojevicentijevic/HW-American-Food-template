@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Bebas+Neue&family=Montserrat:wght@400;700&display=swap");
+body {
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+}
+
+h1, h2 {
+  font-family: "Alfa Slab One", cursive;
+  text-transform: uppercase;
+  font-size: 4rem;
+}
+
+h3, h4, h5, h6 {
+  font-family: "Bebas Neue", cursive;
+  text-transform: uppercase;
+  font-size: 2rem;
+}
+
+/*# sourceMappingURL=style.css.map */

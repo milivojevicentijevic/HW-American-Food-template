@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Bebas+Neue&family=Montserrat:wght@400;700&display=swap');
+
+$fontFamily: 'Montserrat', sans-serif;
+$fontHeadings: 'Alfa Slab One', cursive;
+$fontOtherHeadings: 'Bebas Neue', cursive;
+$fontSize: 16px;
+
+body {
+    font-family: $fontFamily;
+    font-size: $fontSize;
+}
+h1, h2 {
+    font-family: $fontHeadings;
+    text-transform: uppercase;
+    font-size: 4rem;
+}
+h3, h4, h5, h6 {
+    font-family: $fontOtherHeadings;
+    text-transform: uppercase;
+    font-size: 2rem;
+}
